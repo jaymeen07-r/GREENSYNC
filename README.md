@@ -318,7 +318,8 @@ This project is shared for educational and research purposes.
 - **Team Leader** - **Lead Frontend Ecosystem** - [VED A. PATEL](https://github.com/patelved2307)
 - **Co-Leader** - **Lead Research Analyst** -  [JENIL N. VYAS](https://github.com/jenil656)
 - **Member** - **Lead Backend Technologies** - [JAYMEEN N. VAGHELA](https://github.com/jaymeen07-r)
-- **Member** - **Assist Fullatack** -  [JEEL N. VEKARIYA](https://github.com/jeelpatel2345)
+- **Member** - **Technical Generalist** -  [JEEL N. VEKARIYA](https://github.com/jeelpatel2345)
+- **Guide** - PARITA V. SHAH
 - **Institution** -  KSV University
 - **Hackathon** -  Impact Hackathon 2025
 
