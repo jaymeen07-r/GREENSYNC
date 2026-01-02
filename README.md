@@ -1,4 +1,4 @@
-# GREENSYNC - Elderly Care Platform & Wearable Solution
+# VRUDHASEVA - Elderly Care Platform & Wearable Solution
 
 <div align="center">
   <strong>Empathetic Design | Psychology-Driven | Hardware Integration | Senior Wellbeing</strong>
@@ -8,7 +8,7 @@
 
 ## 🎯 Overview
 
-**GREENSYNC** is a comprehensive elderly care platform designed with psychology-first principles, empathetic design, and wearable integration. It combines behavioral science insights, healthcare technology, and compassionate human-centered design to support and monitor senior citizens' wellbeing.
+**VRUDHASEVA** is a comprehensive elderly care platform designed with psychology-first principles, empathetic design, and wearable integration. It combines behavioral science insights, healthcare technology, and compassionate human-centered design to support and monitor senior citizens' wellbeing.
 
 The platform addresses the unique emotional, cognitive, and physical needs of elderly users while maintaining dignity, independence, and peace of mind for both seniors and their families.
 
@@ -269,7 +269,7 @@ This project is driven by real elderly user needs and behavioral science researc
 
 ## 🎓 Design Philosophy Deep Dive
 
-GREENSYNC is built on the understanding that **elderly users are not simply "older versions of regular users."** They have fundamentally different:
+VRUDHASEVA is built on the understanding that **elderly users are not simply "older versions of regular users."** They have fundamentally different:
 
 - **Emotional needs** (safety, dignity, connection)
 - **Cognitive patterns** (slower processing, memory changes)
@@ -282,7 +282,7 @@ Every design decision is validated against these principles to ensure the system
 
 ## 💝 The Core Promise
 
-GREENSYNC promises to:
+VRUDHASEVA promises to:
 
 ✓ Keep elders **safe without making them feel watched**
 ✓ Maintain **dignity and independence** while providing support
@@ -298,7 +298,7 @@ GREENSYNC promises to:
 ## 📞 Contact & Support
 
 **For questions, feedback, or contributions:**
-- GitHub Issues: [Project Issues](https://github.com/jaymeen07-r/GREENSYNC/issues)
+- GitHub Issues: [Project Issues](https://github.com/jaymeen07-r/VRUDHASEVA/issues)
 - Email: [Project Contact](mailto:jaymeenvaghela07@gmail.com)
 
 ---
@@ -312,7 +312,7 @@ This project is shared for educational and research purposes.
 ## 🙏 Acknowledgments
 
 ### 🏆 Built for Impact Hackathon 2025
-**GREENSYNC** was developed as part of the **Impact Hackathon 2025** organized by **KSV University**, an initiative dedicated to creating technology solutions that address real-world challenges and improve quality of life.
+**VRUDHASEVA** was developed as part of the **Impact Hackathon 2025** organized by **KSV University**, an initiative dedicated to creating technology solutions that address real-world challenges and improve quality of life.
 
 ### Project Team
 - **Team Leader** - **VED A. PATEL** - Lead Frontend Ecosystem - [Get in Touch](https://github.com/patelved2307)
